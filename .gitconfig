@@ -1,0 +1,6 @@
+[user]
+	name = mersi-h
+	email = mersihuqi@gmail.com
+[filesystem "Oracle Corporation|11.0.10|1618540641"]
+	timestampResolution = 1019 microseconds
+	minRacyThreshold = 0 nanoseconds
