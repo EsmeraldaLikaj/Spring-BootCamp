@@ -1,0 +1,16 @@
+package ExerciseTwo;
+
+public enum Position {
+    GOALKEEPER,
+    CENTER_BACK,
+    SWEEPER,
+    FULL_BACK,
+    WING_BACK,
+    CENTER_MIDFIELD,
+    DEFENSIVE_MIDFIELD,
+    ATTACKING_MIDFIELD,
+    WIDE_MIDFIELD,
+    CENTER_FORWARD,
+    SECOND_STRIKER,
+    WINGER
+}
