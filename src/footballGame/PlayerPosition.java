@@ -1,0 +1,7 @@
+package footballGame;
+
+public enum PlayerPosition {
+	
+	GOOLKEEPER, DEFENDER, OUTSIDE_FULLBACK, CENTRAL_DEFENDERS, MIDFIELDERS, FORWARD, CENTER_FORWARD 
+
+}
